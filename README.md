@@ -1,5 +1,15 @@
 # Trader Behavior vs Market Sentiment Analysis
 
+## Project Highlights
+
+• Analyzed relationship between **Bitcoin market sentiment (Fear vs Greed)** and trader behavior.  
+• Processed and analyzed **historical trading activity data** from Hyperliquid.  
+• Engineered trading metrics such as **daily PnL, trade frequency, and trade size**.  
+• Identified behavioral differences in trader activity during **Fear vs Greed sentiment periods**.  
+• Proposed **data-driven strategy recommendations** based on observed patterns.
+
+---
+
 ## Overview
 
 This project analyzes how **Bitcoin market sentiment (Fear vs Greed)** affects trader behavior and profitability using historical trading data.
